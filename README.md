@@ -1,6 +1,6 @@
 # 🏡 Boston Housing Price Prediction using Decision Tree and Random Forest Regression
 
-This project predicts housing prices in Boston using **Decision Tree Regression** and compares its performance to a more powerful ensemble model, **Random Forest Regression**. The focus is on model evaluation, hyperparameter tuning, and deriving actionable insights from metrics like **Mean Squared Error (MSE)** and **R² Score**.
+This is Day 9 of 30 ML models in 30 Days. This project predicts housing prices in Boston using **Decision Tree Regression** and compares its performance to a more powerful ensemble model, **Random Forest Regression**. The focus is on model evaluation, hyperparameter tuning, and deriving actionable insights from metrics like **Mean Squared Error (MSE)** and **R² Score**.
 
 ---
 
